@@ -1,6 +1,12 @@
 ### Hi there 👋
 How're you doing today?
 
+```
+// todo: add some interesting stuff here
+```
+
+You can find out more about me on my [website](https://dpkg.in).
+
 <!--
 **dpkg/dpkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
